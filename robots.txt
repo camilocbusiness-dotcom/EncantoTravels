@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloquea el PDF del certificado de la indexación directa (opcional, evita que aparezca suelto)
+# Disallow: /pdf/
+
+Sitemap: https://encantotravels.com.co/sitemap.xml
